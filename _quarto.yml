@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "pre"
+  navbar:
+    left: 
+      - text: exercise
+        menu: 
+          - text: exercise
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
