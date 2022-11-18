@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "pre",
+    "title": "ISSS624",
     "section": "",
-    "text": "welcome to xxx\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "welcome to ISSS624\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Hands-on Ex1.html",
+    "href": "Hands-on Ex1.html",
+    "title": "Hands-on Exercise 1",
+    "section": "",
+    "text": "This is the overview paragraph."
+  },
+  {
+    "objectID": "Hands-on Ex1.html#getting-started",
+    "href": "Hands-on Ex1.html#getting-started",
+    "title": "Hands-on Exercise 1",
+    "section": "Getting Started",
+    "text": "Getting Started\nThis is the getting start paragraph"
   }
 ]

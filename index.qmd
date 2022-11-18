@@ -1,12 +1,9 @@
 ---
-title: "pre"
+title: "ISSS624"
 ---
 
 This is a Quarto website.
 
-welcome to xxx
+welcome to ISSS624
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{}
-```
